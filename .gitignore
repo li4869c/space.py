@@ -1,0 +1,23 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# IDE settings
+.idea/
+.vscode/
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Build output
+build/
+dist/
+*.egg-info/
